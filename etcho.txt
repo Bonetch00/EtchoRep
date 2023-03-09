@@ -1,2 +1,3 @@
-Yasser il piu' bonetchooooo
-tez
+Yasser il piu' bonetchooooo(locale)
+tez(git hub)
+sales(locale 2.0)
